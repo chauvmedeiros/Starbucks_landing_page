@@ -17,7 +17,7 @@
 </div>
 
 # Atenção
-<p>Se você ainda não passou da fase do "copiar&colar" códigos, procure alguns dos materiais de estudo para se aperfeiçoar e se tornar um dev profissional ainda em 2022</p>
-<p>Material que indico é o <a href="https://cursos.dankicode.online/cursos?src=gadspesqdankicursos&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LaKB5wRc38FIrbghjLyWqvtN-AeaZT_LCZ-VFoOxh7U3YesEHeXckaAlZBEALw_wcB">Curso Desenvolvedor Full Stack </a>.</p>
+<p>Procure alguns dos materiais de estudo para se aperfeiçoar e se tornar um dev profissional ainda em 2022</p>
+<p>Material que indico é o <a href="https://cursos.dankicode.online/cursos?src=gadspesqdankicursos&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LaKB5wRc38FIrbghjLyWqvtN-AeaZT_LCZ-VFoOxh7U3YesEHeXckaAlZBEALw_wcB">Curso Webmaster Front-End Completo </a>.</p>
 
  
